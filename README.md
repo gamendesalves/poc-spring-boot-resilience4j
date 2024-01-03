@@ -1,2 +1,3 @@
 # poc-spring-boot-resilience4j
-Poc Spring Boot With Resilience4j
+
+Spring Boot 3 With Resilience4j
